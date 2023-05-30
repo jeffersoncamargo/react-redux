@@ -1,0 +1,23 @@
+.interval {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    
+    label {
+        display: flex;
+        justify-content: center;
+
+        span {
+            width: 50px;
+        }
+
+        input[type="number"] {
+            margin-left: 20px;
+            border: solid 1px #353535;
+            border-radius: 5px;
+            padding: 3px 7px;
+            color: #353535;
+            width: 50px;
+        }
+    }
+}

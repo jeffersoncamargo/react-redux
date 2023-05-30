@@ -1,0 +1,27 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    min-width: 500px;
+    align-items: center;
+    background: #efefef;
+    color: #1a1a1a;
+    border: solid 2px red;
+    border-radius: 5px;
+
+    &-title {
+        background: red;
+        color: #fff;
+        font-size: 12px;
+        width: calc(100% - 20px);
+        text-align: center;
+        padding: 7px 10px;
+        text-transform: uppercase;
+    }
+
+    &-body {
+        width: calc(100% - 20px);
+        padding: 10px;
+        font-size: 16px;
+    }
+}

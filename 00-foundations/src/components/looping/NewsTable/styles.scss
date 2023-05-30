@@ -1,0 +1,49 @@
+.news-table {
+    .title {
+        margin-bottom: 10px;
+        color: #a42d22;
+    }
+
+    table {
+        border: solid 1px #a42d22;
+        border-collapse: collapse;
+        font-size: 13px;
+        margin-bottom: 10px;
+
+        th, td {
+            border: solid 1px #a42d22;
+            padding: 7px 5px;
+
+            a {
+                display: flex;
+                background-color: #a42d22;
+                color: #fff;
+                border-radius: 5px;
+                padding: 5px 3px;
+                text-decoration: none !important;
+                text-align: center;
+
+                &:hover {
+                    transform: scale(1.05);
+                    transition: all 0.5s ease-out;
+                }
+            }
+
+            &:first-child {
+                width: 40%;
+                text-align: center;
+            }
+        }
+
+        th {
+            background-color: #a42d22;
+            color: #fff;
+        }
+
+        tr {
+            &:nth-child(2n+2) {
+                background-color: #cfcfcf;
+            }
+        }
+    }
+}

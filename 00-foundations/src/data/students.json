@@ -1,0 +1,22 @@
+[
+    {
+        "name": "John Doe",
+        "grade": 8.5
+    },
+    {
+        "name": "Mary Robins",
+        "grade": 7.9
+    },
+    {
+        "name": "Allan Frank",
+        "grade": 10.0
+    },
+    {
+        "name": "Matt Ryan",
+        "grade": 3.2
+    },
+    {
+        "name": "Aaron Rodgers",
+        "grade": 8.1
+    }
+]

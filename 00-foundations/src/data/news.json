@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "slug": "new-1",
+        "title": "Title of news #1",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mollis libero at rhoncus accumsan. Nulla id suscipit nisi. Vivamus mattis nisl id euismod venenatis."
+    },
+    {
+        "id": 2,
+        "slug": "new-2",
+        "title": "Title of news #2",
+        "content": "Nam vehicula ipsum nulla, eu fermentum sem tempus rhoncus. Nulla placerat neque non mauris tempor, vitae ultrices erat molestie."
+    },
+    {
+        "id": 3,
+        "slug": "new-3",
+        "title": "Title of news #3",
+        "content": "Nullam vestibulum pharetra elit, quis interdum augue dignissim vel. Fusce eu rutrum nunc, et rutrum nunc. Pellentesque pulvinar augue ut imperdiet rhoncus."
+    },
+    {
+        "id": 4,
+        "slug": "new-4",
+        "title": "Title of news #4",
+        "content": "Aliquam molestie rutrum quam, ut imperdiet mi porta nec. Nullam velit turpis, molestie sit amet nulla at, porttitor ultrices orci."
+    }
+]

@@ -1,0 +1,16 @@
+.students-list {
+    font-size: 14px;
+    
+    ul {
+        list-style: none;
+
+        li {
+            margin-bottom: 10px;
+
+            span {
+                color: #a42d22;
+                font-weight: bold;
+            }
+        }
+    }
+}
